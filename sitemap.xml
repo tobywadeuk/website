@@ -2,16 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://tobywadeuk.github.io/website/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://tobywadeuk.github.io/website/live/</loc>
+    <loc>/live/</loc>
   </url><url>
-    <loc>https://tobywadeuk.github.io/website/tags/happiness/</loc>
+    <loc>/tags/happiness/</loc>
   </url><url>
-    <loc>https://tobywadeuk.github.io/website/happy/</loc>
+    <loc>/happy/</loc>
   </url><url>
-    <loc>https://tobywadeuk.github.io/website/tags/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://tobywadeuk.github.io/website/</loc>
+    <loc>/</loc>
   </url>
 </urlset>
